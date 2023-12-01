@@ -13,6 +13,6 @@ defaults:
     scope:
       path: "*/index.html"
     values:
-      collections: pages
+      collection: pages
 
 remote_theme: jekyll-theme-blank/jekyll-theme-blank
