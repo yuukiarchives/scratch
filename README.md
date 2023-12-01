@@ -1,6 +1,6 @@
 # yuuki's Scratch projects
 
-This is yuuki's Scratch projects.
+This is yuuki's Scratch projects. See my [Mint](https://min.togetter.com/pHYSPky) for details.
 
 ## Availability
 
