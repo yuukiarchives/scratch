@@ -11,6 +11,6 @@ defaults:
   - scope:
       path: "*/index.html"
     values:
-      category: unko
+      collection: pages
 
 remote_theme: jekyll-theme-blank/jekyll-theme-blank
