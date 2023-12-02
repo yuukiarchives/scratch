@@ -1,18 +1,10 @@
 title: yuuki's Scratch projects
 url: https://yuukiscratch.github.io
-canonical_url: false
 license_url: https://creativecommons.org/licenses/by-sa/2.0/
 
 collections:
   pages:
     output: true
     permalink: /:title
-
-defaults:
-  -
-    scope:
-      path: "/*/index.html"
-    values:
-      collection: pages
 
 remote_theme: jekyll-theme-blank/jekyll-theme-blank
