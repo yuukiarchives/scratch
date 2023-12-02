@@ -2,9 +2,4 @@ title: yuuki's Scratch projects
 url: https://yuukiscratch.github.io
 license_url: https://creativecommons.org/licenses/by-sa/2.0/
 
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:title
-
 remote_theme: jekyll-theme-blank/jekyll-theme-blank
