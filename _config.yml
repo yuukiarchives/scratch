@@ -7,4 +7,10 @@ license_url: https://creativecommons.org/licenses/by-sa/2.0/
 #     output: true
 #     permalink: /:title
 
+defaults:
+  - scope:
+      path: "*/index.html"
+    values:
+      category: unko
+
 remote_theme: jekyll-theme-blank/jekyll-theme-blank
