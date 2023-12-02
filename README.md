@@ -5,4 +5,4 @@ This is the repository for my Scratch projects. See my [Mint](https://min.togett
 ## Availability
 
 * [yuukiscratch.github.io](https://yuukiscratch.github.io/)
-* [yuuki29](https://scratch.mit.edu/users/yuuki29/) on the official MIT Scratch site
+* [yuuki29](https://scratch.mit.edu/users/yuuki29/) on the official Scratch site
