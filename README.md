@@ -6,4 +6,4 @@ This is a collection of my Scratch projects. See my [Mint](https://min.togetter.
 
 ## Mirrors
 
-* [yuuki29's projects](https://scratch.mit.edu/users/yuuki29/projects/) on the MIT Scratch site
+* [yuuki29](https://scratch.mit.edu/users/yuuki29/) on the MIT Scratch site
