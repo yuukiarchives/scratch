@@ -2,7 +2,7 @@
 
 This is a collection of my Scratch projects. See my [Mint](https://min.togetter.com/pHYSPky) for details.
 
-* [yuukiscratch.github.io](https://yuukiscratch.github.io/)
+* https://yuukiscratch.github.io/
 
 ## Mirrors
 
