@@ -1,35 +1,11 @@
 remote_theme: jekyll-theme-plain/jekyll-theme-plain
 
 title: Yuuki's Scratch Site
+url: https://yuukiarchive.github.io/scratch
 license: https://creativecommons.org/licenses/by-sa/2.0/
 
 exclude:
-  - 404.html
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-
-permalink: /blog/:title
-
-collections:
-  pages:
-    output: true
-    permalink: /:title/
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: base
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-
-optional_front_matter:
-  remove_originals: true
