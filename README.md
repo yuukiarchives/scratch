@@ -1,8 +1,6 @@
-# [yuuki's Scratch projects](https://yuukiscratch.github.io/)
+# [yuuki's Scratch projects](https://yuukiarchive.github.io/scratch/)
 
 This is a collection of my Scratch projects. See my [Mint](https://min.togetter.com/pHYSPky) for details.
-
-* https://yuukiscratch.github.io/
 
 ## Mirrors
 
