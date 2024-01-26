@@ -268,7 +268,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 228)
-  webrick (~> 1.8)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.5.5
